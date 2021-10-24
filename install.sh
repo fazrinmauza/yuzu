@@ -16,5 +16,4 @@ npm audit fix
 #!/usr/bin/bash
 
 tty-clock -s -S -x -c -C 2 -b -B
-clear
 node index
